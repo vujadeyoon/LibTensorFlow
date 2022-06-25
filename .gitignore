@@ -30,3 +30,8 @@
 *.exe
 *.out
 *.app
+
+# Custom
+_arxiv/libtensorflow-cpu-linux-x86_64-2.8.0.tar.gz
+lib_ext/libtensorflow_cpu/
+main
