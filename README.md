@@ -1,4 +1,4 @@
-# LibTensorFlow-Cmake
+# LibTensorFlow
 * I recommend that you should ignore the commented instructions with an octothorpe, #.
 * I recommend that you should type the sercert strings with an barakets, <>.
 

@@ -26,7 +26,6 @@ export TF_CPP_MIN_LOG_LEVEL=3
 # Build.
 rm -rf ${name_exec}
 g++ -o ./${name_exec} ./app/main.cpp \
-    -I${path_curr}/include -L${path_curr}/include \
     -I${path_libtf}/include -L${path_libtf}/lib -ltensorflow
 #
 #
